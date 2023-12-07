@@ -2,24 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-22T11:44:15 IST" name="Default suite" finished-at="2023-11-22T11:44:24 IST" duration-ms="9430">
+  <suite started-at="2023-12-05T12:52:13 IST" name="Default suite" finished-at="2023-12-05T12:52:35 IST" duration-ms="22391">
     <groups>
     </groups>
-    <test started-at="2023-11-22T11:44:15 IST" name="Default test" finished-at="2023-11-22T11:44:24 IST" duration-ms="9430">
-      <class name="apachepoi.AllAnchorTags">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:apachepoi.AllAnchorTags@f0c8a99]" started-at="2023-11-22T11:44:15 IST" name="setUp" finished-at="2023-11-22T11:44:23 IST" duration-ms="8865" status="PASS">
+    <test started-at="2023-12-05T12:52:13 IST" name="Default test" finished-at="2023-12-05T12:52:35 IST" duration-ms="22391">
+      <class name="specialprograms.sandeeptest">
+        <test-method signature="test01()[pri:0, instance:specialprograms.sandeeptest@942a29c]" started-at="2023-12-05T12:52:13 IST" name="test01" finished-at="2023-12-05T12:52:35 IST" duration-ms="22358" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="testAllLinks()[pri:0, instance:apachepoi.AllAnchorTags@f0c8a99]" started-at="2023-11-22T11:44:23 IST" name="testAllLinks" finished-at="2023-11-22T11:44:24 IST" duration-ms="376" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testAllLinks -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:apachepoi.AllAnchorTags@f0c8a99]" started-at="2023-11-22T11:44:24 IST" name="tearDown" finished-at="2023-11-22T11:44:24 IST" duration-ms="146" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- apachepoi.AllAnchorTags -->
+        </test-method> <!-- test01 -->
+      </class> <!-- specialprograms.sandeeptest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
